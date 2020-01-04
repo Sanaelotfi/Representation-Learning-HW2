@@ -6,7 +6,7 @@ This is the first assignement of the [IFT6135: Representation-Learning](https://
 
 ## Theory
 
-Optimization, Regularization, and Recurrent Neural networks (RNNs) : [Statement and Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/IFT6135_HW1_Theory.pdf).
+Optimization, Regularization, and Recurrent Neural networks (RNNs) : [Statement and Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/IFT6135_HW2_Theory.pdf).
 
 
 ## Practice
