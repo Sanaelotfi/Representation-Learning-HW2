@@ -11,9 +11,9 @@ Optimization, Regularization, and Recurrent Neural networks (RNNs) : [Statement 
 
 ## Practice
 
-This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
+Recurrent Neural Networks, Optimization, and Attention : [Statement](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/HW2_practice_statement.pdf).
 
-[Statement](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/HW2_practice_statement.pdf).
+This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
 ### Problem 1: implementing a simple RNN
 
