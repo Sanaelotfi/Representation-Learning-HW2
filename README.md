@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the first assignement of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
+This is the second assignement of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
 
 ## Theory
 
