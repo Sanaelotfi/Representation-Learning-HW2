@@ -13,29 +13,25 @@ Optimization, Regularization, and Recurrent Neural networks (RNNs) : [Statement 
 
 This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
-### Problem 1: building a Multilayer Perceptron (MLP) and training it on the MNIST handwritten digit dataset
+[Statement](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/HW2_practice_statement.pdf).
 
-[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem1.ipynb).
+### Problem 1: implementing a simple RNN
 
-Best model validation accuracy:  98.41%. 
-
-
-### Problem 2: training a convolutional network on MNIST
-
-[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem2.ipynb).
-
-Obtained test accuracy: 99.14 %.
-
-### Problem 3: Dogs vs. Cats InclassKaggle challenge for image classification.
-
-[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem3.ipynb).
-
-You can use the to_npy.py file to generate the data.npz file from raw images.
-
-Best validation accuracy: 89%.
+[Solution]().
 
 
+### Problem 2: implementing an RNN with Gated Recurrent Units (GRU)
 
-We couldn't push large weights to github. Therefore, we provide a link to our working folder on Google Drive in which you can find the full project:
+[Solution]().
 
-https://drive.google.com/drive/folders/17DuvZv99KrXLqBNPsPaKCEnakqu0lNWf?usp=sharing
+### Problem 3: implementing the attention module of a transformer network 
+
+[Solution]().
+
+### Problem 4: training language models
+
+[Solution]().
+
+### Problem 5: detailed evaluation of trained models
+
+[Solution]().
