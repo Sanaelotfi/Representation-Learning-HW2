@@ -17,16 +17,16 @@ This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahse
 
 ### Problem 1: implementing a simple RNN
 
-[Solution]().
+[Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/Problem1-2-3.ipynb).
 
 
 ### Problem 2: implementing an RNN with Gated Recurrent Units (GRU)
 
-[Solution]().
+[Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/Problem1-2-3.ipynb).
 
 ### Problem 3: implementing the attention module of a transformer network 
 
-[Solution]().
+[Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/Problem1-2-3.ipynb).
 
 ### Problem 4: training language models
 
