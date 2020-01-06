@@ -34,4 +34,4 @@ This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahse
 
 ### Problem 5: detailed evaluation of trained models
 
-[Solution]().
+[Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/Problem%205.ipynb).
