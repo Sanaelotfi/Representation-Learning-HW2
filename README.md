@@ -1,4 +1,4 @@
-# IFT6135: Representation Learning, first assignement.
+# IFT6135: Representation Learning, second assignement.
 
 ## Description
 
