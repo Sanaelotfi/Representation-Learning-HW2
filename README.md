@@ -30,7 +30,7 @@ This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahse
 
 ### Problem 4: training language models
 
-[Solution]().
+[Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/Problem4.ipynb).
 
 ### Problem 5: detailed evaluation of trained models
 
