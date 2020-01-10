@@ -1,17 +1,17 @@
-# IFT6135: Representation Learning, second assignement.
+# IFT6135: Representation Learning, second assignment.
 
 ## Description
 
-This is the second assignement of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
+This is the second assignment of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
 
 ## Theory
 
-Optimization, Regularization, and Recurrent Neural networks (RNNs) : [Statement and Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/IFT6135_HW2_Theory.pdf).
+Optimization, Regularization, and Recurrent Neural networks (RNNs): [Statement and Solution](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/IFT6135_HW2_Theory.pdf).
 
 
 ## Practice
 
-Recurrent Neural Networks, Optimization, and Attention : [Statement](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/HW2_practice_statement.pdf).
+Recurrent Neural Networks, Optimization, and Attention: [Statement](https://github.com/Sanaelotfi/Representation-Learning-HW2/blob/master/HW2_practice_statement.pdf).
 
 This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
